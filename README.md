@@ -9,5 +9,5 @@ Private Sector Yearly Threat Intelligence Reporting:
 Public Sector Threat Intelligence:
 - CISA National Cyber Awareness System – Alerts (2020-2022)
 
-![image](3d-scatter.png)
+![image](3d-scatter.gif)
 
