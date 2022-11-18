@@ -1,0 +1,1041 @@
+Rank,TID,Technique,Percentage,Reporter,Year,Type,Source
+1,T1547.001,Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder,37.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+1,T1059.001,Command and Scripting Interpreter: PowerShell,37.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+1,T1190,Exploit Public-Facing Application,37.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+1,T1083,File and Directory Discovery,37.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+1,T1566.001,Phishing: Spearphishing Attachment,37.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+1,T1566.002,Phishing: Spearphishing Link,37.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+1,T1057,Process Discovery,37.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+1,T1016,System Network Configuration Discovery,37.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+2,T1059.003,Command and Scripting Interpreter: Windows Command Shell,31.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+2,T1543.003,Create or Modify System Process: Windows Service,31.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+2,T1070.004,Indicator Removal on Host: File Deletion,31.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+2,T1105,Ingress Tool Transfer,31.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+2,T1027,Obfuscated Files or Information,31.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+3,T1071.001,Application Layer Protocol: Web Protocols,25.00,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+3,T1555.003,Credentials from Password Stores: Credentials from Web Browsers,25.00,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+3,T1132.001,Data Encoding: Standard Encoding,25.00,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+3,T1189,Drive-by Compromise,25.00,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+3,T1041,Exfiltration Over C2 Channel,25.00,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+3,T1056.001,Input Capture: Keylogging,25.00,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+3,T1055,Process Injection,25.00,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+3,T1505.003,Server Software Component: Web Shell,25.00,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+3,T1082,System Information Discovery,25.00,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+3,T1033,System Owner/User Discovery,25.00,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+3,T1204.002,User Execution: Malicious File,25.00,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1071.004,Application Layer Protocol: DNS,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1560,Archive Collected Data,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1059.005,Command and Scripting Interpreter: Visual Basic,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1140,Deobfuscate/Decode Files or Information,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1573.002,Encrypted Channel: Asymmetric Cryptography,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1133,External Remote Services,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1562.001,Impair Defenses: Disable or Modify Tools,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1036.005,Masquerading: Match Legitimate Name or Location,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1106,Native API,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1046,Network Service Scanning,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1040,Network Sniffing,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1027.002,Obfuscated Files or Information: Software Packing,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1003.001,OS Credential Dumping: LSASS Memory,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1090,Proxy,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1090.002,Proxy: External Proxy,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1012,Query Registry,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1219,Remote Access Software,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1021.001,Remote Services: Remote Desktop Protocol,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1113,Screen Capture,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1518.001,Software Discovery: Security Software Discovery,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1553.002,Subvert Trust Controls: Code Signing,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1218.011,System Binary Proxy Execution: Rundll32,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1569.002,System Services: Service Execution,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1204.001,User Execution: Malicious Link,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+4,T1078,Valid Accounts,18.75,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1548.002,Abuse Elevation Control Mechanism: Bypass User Account Control,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1071,Application Layer Protocol,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1071.002,Application Layer Protocol: File Transfer Protocols,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1119,Automated Collection,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1547.009,Boot or Logon Autostart Execution: Shortcut Modification,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1110,Brute Force,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1110.003,Brute Force: Password Spraying,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1115,Clipboard Data,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1059.006,Command and Scripting Interpreter: Python,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1005,Data from Local System,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1568.002,Dynamic Resolution: Domain Generation Algorithms,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1114,Email Collection,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1114.001,Email Collection: Local Email Collection,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1573.001,Encrypted Channel: Symmetric Cryptography,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1499,Endpoint Denial of Service,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1546.008,Event Triggered Execution: Accesibility Features,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1546.001,Event Triggered Execution: Change Default File Association,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1546.015,Event Triggered Execution: Component Object Model Hijacking,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1048.003,Exfiltration Over Alternative Protocol: Exfiltration Over Unencrypted/Obfuscated Non-C2 Protocol,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1203,Exploitation for Client Execution,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1210,Exploitation of Remote Services,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1564.001,Hide Artifacts: Hidden Files and Directories,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1574.002,Hijack Exectuion Flow: DLL Side-Loading,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1562.004,Impair Defenses: Disable or Modify System Firewall,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1070.003,Indicator Removal on Host: Clear Command History,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1070.006,Indicator Removal on Host: Timestomp,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1056.004,Input Capture: Credential API Hooking,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1112,Modify Registry,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1498,Network Denial of Service,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1095,Non-Application Layer Protocol,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1571,Non-Standard Port,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1027.005,Obfuscated Files or Information: Indicator Removal from Tools,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1027.003,Obfuscated Files or Information: Steganography,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1003,OS Credential Dumping,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1055.012,Process Injection: Process Hollowing,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1090.003,Proxy: Multi-Hop Proxy,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1021,Remote Services,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1021.002,Remote Services: SMB/Windows Admin Shares,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1018,Remote System Discovery,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1014,Rootkit,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1053.005,Scheduled Task/Job: Scheduled Task,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1072,Software Deployment Tools,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1195.002,Supply Chain Compromise: Software Supply Chain,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1218.001,System Binary Proxy Execution: Compiled HTML File,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1218.005,System Binary Proxy Execution: Mshta,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1049,System Network Connections Discovery,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1199,Trusted Relationship,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1552.001,Unsecured Credentials: Credentials in Files,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1550.002,Use Alternate Authentication Material: Pass the Hash,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+5,T1047,Windows Management Instrumentation,12.5,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1548.003,Abuse Elevation Control Mechanism: Sudo and Sudo Caching,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1134,Access Token Manipulation,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1134.002,Access Token Manipulation: Create Process with Token,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1134.001,Access Token Manipulation: Token Impersonation/Theft,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1087,Account Discovery,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1087.002,Account Discovery: Domain Account,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1087.003,Account Discovery: Email Account,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1087.001,Account Discovery: Local Account,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1098,Account Manipulation,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1098.002,Account Manipulation: Exchange Email Delegate Permissions,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1071.003,Application Layer Protocol: Mail Protocols,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1010,Application Window Discovery,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1560.003,Archive Collected Data: Archive via Custom Method,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1560.001,Archive Collected Data: Archive via Utility,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1123,Audio Capture,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1020,Automated Exfiltration,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1197,BITS Jobs,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1547,Boot or Logon Autostart Execution,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1037.001,Boot or Logon Initialization Scripts: Logon Script,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1217,Browser Bookmark Discovery,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1176,Browser Extensions,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1185,Browser Session Hijacking,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1110.004,Brute Force: Credential Stuffing,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1110.002,Brute Force: Password Cracking,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1110.001,Brute Force: Password Guessing,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1059,Command and Scripting Interpreter,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1059.004,Command and Scripting Interpreter: Unix Shell,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T0885,Commonly Used Port,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1043,Commonly Used Port,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1092,Communication through Removable Media,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1136,Create Account,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1555,Credentials from Password Stores,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1094,Custom Command and Control,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1024,Custom Cryptographic Protocol,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1213.002,Data from Information Repositories: SharePoint,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1025,Data from Removable Media,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1101,Data Obfuscation,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1001.001,Data Obfuscation: Junk Data,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1074.001,Data Staged: Local Data Staging,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1114.003,Email Collection: Email Forwarding Rule,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1114.002,Email Collection: Remote Email Collection,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1573,Encrypted Channel,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1546.003,Event Triggered Execution: Windows Managment Instrumentation Event Subscription,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1480.001,Execution Guardrails: Environmental Keying,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1211,Exploitation for Defense Evasion,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1068,Exploitation for Privilege Escalation,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1008,Fallback Channels,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1187,Forced Authentication,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1564.003,Hide Artifacts: Hidden Window,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1562.003,Impair Defenses: Impair Command History Logging,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1562.006,Impair Defenses: Indicator Blocking,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1070.001,Indicator Removal on Host: Clear Windows Event Logs,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1202,Indirect Command Execution,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1056,Input Capture,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1559.002,Inter-Process Communication: Dynamic Data Exchange,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T0883,Internet Accessible PLC,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1036,Masquerading,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T0833,Modify Control Logic,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1188,Multi-hop Proxy,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1104,Multi-Stage Channels,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1079,Multilayer Encryption,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1135,Network Share Discovery,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1027.001,Obfuscated Files or Information: Binary Padding,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1137.002,Office Application Startup: Office Test,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1137.004,Office Application Startup: Outlook Home Page,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1003.005,OS Credential Dumping: Cached Domain Credentials,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1003.004,OS Credential Dumping: LSA Secrets,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1003.003,OS Credential Dumping: NTDS,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1003.002,OS Credential Dumping: Security Account Manager,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1201,Password Policy Discovery,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1120,Peripheral Device Discovery,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1069.002,Permission Groups Discovery: Domain Groups,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1069.001,Permission Groups Discovery: Local Groups,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1566.003,Phishing: Spearphishing via Service,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T0836,PLCs,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1542.003,Pre-OS Boot: Bootkit,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1055.001,Process Injection: Dynamic-link Library Injection,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T0843,Program Download,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1572,Protocol Tunneling,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1090.004,Proxy: Domain Fronting,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1021.004,Remote Services: SSH,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1091,Replication through Removable Media,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1053,Scheduled Task/Job,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1053.004,Scheduled Task/Job: Launchd,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1129,Shared Modules,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1518,Software Discovery,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T0869,Standard Application Layer Protocol,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1528,Steal Application Access Token,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1195.001,Supply Chain Compromise: Compromise Software Dependencies and Development Tools,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1007,System Service Discovery,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1080,Taint Shared Content,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1221,Template Injection,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1552.006,Unsecured Credentials: Group Policy Preferences,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1552.004,Unsecured Credentials: Private Keys,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1550.001,Use Alternate Authentication Material: Application Access Token,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1550.003,Use Alternate Authentication Material: Pass the Ticket,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1204,User Execution,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1078.004,Valid Accounts: Cloud Accounts,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1078.003,Valid Accounts: Local Accounts,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1102,Web Service,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1102.002,Web Service: Bidirectional Communication,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1102.001,Web Service: Dead Drop Resolver,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+6,T1047.001,Windows Management Instrumentation: Registry Run Keys / Startup Folder,6.25,CISA,2020,Public,https://www.cisa.gov/uscert/ncas/alerts/2020
+1,T1027,Obfuscated Files or Information,46.15,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+1,T1566.002,Phishing: Spearphishing Link,46.15,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+2,T1140,Deobfuscate/Decode Files or Information,38.46,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+2,T1573.001,Encrypted Channel: Symmetric Cryptography,38.46,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+2,T1133,External Remote Services,38.46,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+3,T1566.001,Phishing: Spearphishing Attachment,30.77,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+3,T1090.003,Proxy: Multi-Hop Proxy,30.77,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+3,T1053.005,Scheduled Task/Job: Scheduled Task,30.77,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+3,T1204.002,User Execution: Malicious File,30.77,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+4,T1059.003,Command and Scripting Interpreter: Windows Command Shell,23.08,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+4,T1041,Exfiltration Over C2 Channel,23.08,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+4,T1190,Exploit Public-Facing Application,23.08,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+4,T1083,File and Directory Discovery,23.08,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+4,T1105,Ingress Tool Transfer,23.08,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+4,T1003.003,OS Credential Dumping: NTDS,23.08,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+4,T1057,Process Discovery,23.08,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+4,T1055.001,Process Injection: Dynamic-link Library Injection,23.08,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+4,T1018,Remote System Discovery,23.08,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+4,T1505.003,Server Software Component: Web Shell,23.08,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+4,T1204.001,User Execution: Malicious Link,23.08,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1087.002,Account Discovery: Domain Account,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1071.001,Application Layer Protocol: Web Protocols,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1560,Archive Collected Data,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1560.001,Archive Collected Data: Archive via Utility,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1059.007,Command and Scripting Interpreter: JavaScript,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1059.001,Command and Scripting Interpreter: PowerShell,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1059.004,Command and Scripting Interpreter: Unix Shell,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1136,Create Account,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1543.003,Create or Modify System Process: Windows Service,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1074.001,Data Staged: Local Data Staging,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1189,Drive-by Compromise,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1210,Exploitation of Remote Services,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1070.004,Indicator Removal on Host: File Deletion,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1056.004,Input Capture: Credential API Hooking,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1106,Native API,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1571,Non-Standard Port,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1003,OS Credential Dumping,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1003.001,OS Credential Dumping: LSASS Memory,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1069,Permission Groups Discovery,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1566,Phishing,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1572,Protocol Tunneling,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1021.002,Remote Services: SMB/Windows Admin Shares,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1218,System Binary Proxy Execution,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1016,System Network Configuration Discovery,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1033,System Owner/User Discovery,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1007,System Service Discovery,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1078.001,Valid Accounts: Default Accounts,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+5,T1047,Windows Management Instrumentation,15.38,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1548,Abuse Elevation Control Mechanism,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1087.001,Account Discovery: Local Account,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1071,Application Layer Protocol,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1547,Boot or Logon Autostart Execution,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1185,Browser Session Hijacking,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1110,Brute Force,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1110.001,Brute Force: Password Guessing,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1110.003,Brute Force: Password Spraying,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1115,Clipboard Data,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1059,Command and Scripting Interpreter,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1059.008,Command and Scripting Interpreter: Network Device CLI,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1059.006,Command and Scripting Interpreter: Python,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1136.002,Create Account: Domain Account,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1136.001,Create Account: Local Account,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1543.004,Create or Modify System Process: Launch Daemon,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1555,Credentials from Password Stores,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1532,Data Encrypted,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1005,Data from Local System,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1001.003,Data Obfuscation: Protocol Impersonation,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1074,Data Staged,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1561,Disk Wipe,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1484.001,Domain Policy Modification: Group Policy Modification,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1482,Domain Trust Discovery,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1114,Email Collection,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1573,Encrypted Channel,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1567,Exfiltration Over Web Service,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1203,Exploitation for Client Execution,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1212,Exploitation for Credential Access,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1008,Fallback Channels,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1564,Hide Artifacts,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1564.001,Hide Artifacts: Hidden Files and Directories,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1562.001,Impair Defenses: Disable or Modify Tools,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1070,Indicator Removal on Host,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1534,Internal Spearphishing,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1570,Lateral Tool Transfer,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1036,Masquerading,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1556.001,Modify Authentication Process: Domain Controller Authentication,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1112,Modify Registry,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1046,Network Service Scanning,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1135,Network Share Discovery,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1027.002,Obfuscated Files or Information: Software Packing,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1027.003,Obfuscated Files or Information: Steganography,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1055.002,Process Injection: Portable Executable Injection,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1055.012,Process Injection: Process Hollowing,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1053.003,Scheduled Task/Job: Cron,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1053.004,Scheduled Task/Job: Launchd,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1558.003,Steal or Forge Kerberos Tickets: Kerberoasting,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1218.005,System Binary Proxy Execution: Mshta,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1218.011,System Binary Proxy Execution: Rundll32,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1049,System Network Connections Discovery,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1080,Taint Shared Content,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1552,Unsecured Credentials,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1552.001,Unsecured Credentials: Credentials in Files,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+6,T1078.002,Valid Accounts: Domain Accounts,7.69,CISA,2021,Public,https://www.cisa.gov/uscert/ncas/alerts/2021
+1,T1560.001,Archive Collected Data: Archive via Utility,42.86,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+1,T1190,Exploit Public-Facing Application,42.86,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+1,T1078,Valid Accounts,42.86,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+2,T1059.001,Command and Scripting Interpreter: PowerShell,35.71,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+2,T1133,External Remote Services,35.71,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+2,T1083,File and Directory Discovery,35.71,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+2,T1105,Ingress Tool Transfer,35.71,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+3,T1071.001,Application Layer Protocol: Web Protocols,28.57,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+3,T1053.005,Scheduled Task/Job: Scheduled Task,28.57,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+3,T1082,System Information Discovery,28.57,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+4,T1547.001,Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder,21.43,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+4,T1547.001,Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder,21.43,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+4,T1059.003,Command and Scripting Interpreter: Windows Command Shell,21.43,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+4,T1036.005,Masquerading: Match Legitimate Name or Location,21.43,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+4,T1003.003,OS Credential Dumping: NTDS,21.43,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+4,T1566,Phishing,21.43,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+4,T1057,Process Discovery,21.43,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+4,T1090,Proxy,21.43,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+4,T1505.003,Server Software Component: Web Shell,21.43,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+4,T1505.003,Server Software Component: Web Shell,21.43,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+4,T1016,System Network Configuration Discovery,21.43,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+4,T1033,System Owner/User Discovery,21.43,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+4,T1047,Windows Management Instrumentation,21.43,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1560,Archive Collected Data,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T0858,Change Operating Mode,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1059,Command and Scripting Interpreter,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1059.006,Command and Scripting Interpreter: Python,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1059.004,Command and Scripting Interpreter: Unix Shell,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1136.001,Create Account: Local Account,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1543.003,Create or Modify System Process: Windows Service,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1555.003,Credentials from Password Stores: Credentials from Web Browsers,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1132.002,Data Encoding: Non-Standard Encoding,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1132.001,Data Encoding: Standard Encoding,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T0814,Denial of Service,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T0868,Detect Operating Mode,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1573.001,Encrypted Channel: Symmetric Cryptography,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1041,Exfiltration Over C2 Channel,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1567.002,Exfiltration Over Web Service: Exfiltration to Cloud Storage,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1203,Exploitation for Client Execution,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1562.001,Impair Defenses: Disable or Modify Tools,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1070,Indicator Removal on Host,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1070.004,Indicator Removal on Host: File Deletion,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1036,Masquerading,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T0821,Modify Controller Tasking,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T0834,Native API,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1571,Non-Standard Port,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1027,Obfuscated Files or Information,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1003.001,OS Credential Dumping: LSASS Memory,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1566.002,Phishing: Spearphishing Link,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T0861,Point & Tag Identification,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1055,Process Injection,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T0843,Program Download,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T0845,Program Upload,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1090.002,Proxy: External Proxy,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1219,Remote Access Software,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1018,Remote System Discovery,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T0888,Remote System Information Discovery,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1113,Screen Capture,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T0853,Scripting,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T0857,System Firmware,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1049,System Network Connections Discovery,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T0855,Unauthorized Command Message,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1204.002,User Execution: Malicious File,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+5,T1204.001,User Execution: Malicious Link,14.29,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1548.002,Abuse Elevation Control Mechanism: Bypass User Account Control,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1087.002,Account Discovery: Domain Account,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1087.003,Account Discovery: Email Account,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0802,Automated Collection,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0803,Block Command Message,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0804,Block Reporting Message,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1037.004,Boot or Logon Initialization Scripts: RC Scripts,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1110,Brute Force,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1110.002,Brute Force: Password Cracking,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1110.001,Brute Force: Password Guessing,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1059.007,Command and Scripting Interpreter: JavaScript,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1059.005,Command and Scripting Interpreter: Visual Basic,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0807,Command-Line Interface,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0885,Commonly Used Port,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1136.002,Create Account: Domain Account,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1543,Create or Modify System Process,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1555,Credentials from Password Stores,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0879,Damage to Property,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0809,Data Destruction,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1213.002,Data from Information Repositories: SharePoint,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1005,Data from Local System,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1039,Data from Network Shared Drive,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1074.002,Data Staged: Remote Data Staging,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0812,Default Credentials,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0813,Denial of Control,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0815,Denial of View,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1140,Deobfuscate/Decode Files or Information,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0816,Device Restart/Shutdown,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1482,Domain Trust Discovery,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0817,Drive-by Compromise,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1114,Email Collection,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1573.002,Encrypted Channel: Asymmetric Cryptography,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0818,Engineering Workstation Compromise,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1480,Execution Guardrails,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0871,Execution through API,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1048,Exfiltration Over Alternative Protocol,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0820,Exploitation for Evasion,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0890,Exploitation for Privilege Escalation,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1008,Fallback Channels,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1222.002,File and Directory Permissions Modification: Linux and Mac File and Directory Permissions Modification,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1187,Forced Authentication,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1574.002,Hijack Exectuion Flow: DLL Side-Loading,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1574,Hijack Execution Flow,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0874,Hooking,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1562.004,Impair Defenses: Disable or Modify System Firewall,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1562.009,Impair Defenses: Safe Mode Boot,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0872,Indicator Removal on Host,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1070.001,Indicator Removal on Host: Clear Windows Event Logs,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1056.001,Input Capture: Keylogging,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1559.001,Inter-Process Communication: Component Object Model,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1559.002,Inter-Process Communication: Dynamic Data Exchange,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0867,Lateral Tool Transfer,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1570,Lateral Tool Transfer,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0826,Loss of Availability,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0827,Loss of Control,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0828,Loss of Productivity and Revenue,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0880,Loss of Safety,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0880,Loss of Safety,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0831,Manipulation of Control,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0832,Manipulation of View,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1036.004,Masquerading: Masquerade Task or Service,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1556,Modify Authentication Process,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0836,Modify Parameter,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0889,Modify Program,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1112,Modify Registry,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0801,Monitor Process State,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1104,Multi-Stage Channels,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0842,Network Sniffing,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1095,Non-Application Layer Protocol,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1027.003,Obfuscated Files or Information: Steganography,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1027.004,Ofbuscated Files or Information: Compile After Delivery,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1137.001,Office Application Startup: Office Template Macros,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1003.008,OS Credential Dumping: /etc/passwd and /etc/shadow,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1003.005,OS Credential Dumping: Cached Domain Credentials,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1003.004,OS Credential Dumping: LSA Secrets,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1566.001,Phishing: Spearphishing Attachment,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1566.001,Phishing: Spearphishing Attachment,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1542.001,Pre-OS Boot: System Firmware,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1090.003,Proxy: Multi-Hop Proxy,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0886,Remote Services,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1021.001,Remote Services: Remote Desktop Protocol,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1021.002,Remote Services: SMB/Windows Admin Shares,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0846,Remote System Discovery,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1029,Schedule Transfer,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1053,Scheduled Task/Job,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0881,Service Stop,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1129,Shared Modules,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1518,Software Discovery,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1518.001,Software Discovery: Security Software Discovery,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0865,Spearphishing Attachment,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0869,Standard Application Layer Protocol,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0862,Supply Chain Compromise,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1218.003,System Binary Proxy Execution: CMSTP,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1218.005,System Binary Proxy Execution: Mshta,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1218.011,System Binary Proxy Execution: Rundll32,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1016.001,System Network Configuration Discovery: Internet Connection Discovery,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1569,System Services,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1080,Taint Shared Content,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0882,Theft of Operational Information,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1552.001,Unsecured Credentials: Credentials in Files,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0863,User Execution,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T0859,Valid Accounts,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1078.004,Valid Accounts: Cloud Accounts,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1078.002,Valid Accounts: Domain Accounts,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1497,Virtualization/Sandbox Evasion,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1497.001,Virtualization/Sandbox Evasion: System Checks,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+6,T1102.002,Web Service: Bidirectional Communication,7.14,CISA,2022,Public,https://www.cisa.gov/uscert/ncas/alerts/2022
+1,T1053,Scheduled Task/Job,24.10,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+2,T1059,Command and Scripting Interpreter,15.77,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+3,T1574,Hijack Execution Flow,12.60,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+4,T1090,Proxy,7.98,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+5,T1095,Non-Application Layer Protocol,7.75,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+6,T1036,Masquerading,4.05,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+6,T1218,System Binary Proxy Execution,4.05,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+8,T1543,Create or Modify System Process,3.65,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+9,T1055,Process Injection,1.75,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+10,T1562,Impair Defenses,1.73,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+11,T1047,Windows Management Instrumentation,1.43,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+12,T1027,Obfuscated Files or Information,1.37,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+13,T1112,Modify Registry,1.30,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+14,T1021,Remote Services,1.21,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+15,T1105,Ingress Tool Transfer,0.91,CTID Sightings,2022,Private,https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+1,T1027,Obfuscated Files or Information,31.28,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+2,T1059,Command and Scripting Interpreter,30.40,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+3,T1059.001,Command and Scripting Interpreter: PowerShell,28.63,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+4,T1133,External Remote Services,28.19,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+4,T1569.002,System Services: Service Execution,28.19,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+6,T1021.001,Remote Services: Remote Desktop Protocol,18.94,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+7,T1190,Exploit Public-Facing Application,16.74,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+8,T1505.003,Server Software Component: Web Shell,15.68,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+9,T1573,Encrypted Channel,14.10,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+10,T1560,Archive Collected Data,13.00,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+11,T1202,Indirect Command Execution,12.78,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+12,T1070.004,Indicator Removal on Host: File Deletion,10.57,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+12,T1105,Ingress Tool Transfer,10.57,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+12,T1053,Scheduled Task/Job,10.57,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+12,T1078,Valid Accounts,10.57,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+16,T1098,Account Manipulation,10.13,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+16,T1071,Application Layer Protocol,10.13,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+18,T1027.002,Obfuscated Files or Information: Software Packing,9.25,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+18,T1003,OS Credential Dumping,9.25,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+22,T1518.001,Software Discovery: Security Software Discovery,7.49,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+22,T1199,Trusted Relationship,7.49,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+24,T1112,Modify Registry,6.61,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+25,T1562.001,Impair Defenses: Disable or Modify Tools,5.73,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+25,T1082,System Information Discovery,5.73,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+27,T1547.001,Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder,5.29,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+27,T1110,Brute Force,5.29,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+27,T1070,Indicator Removal on Host,5.29,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+27,T1566.001,Phishing: Spearphishing Attachment,5.29,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+27,T1090,Proxy,5.29,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+27,T1553.002,Subvert Trust Controls: Code Signing,5.29,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+27,T1033,System Owner/User Discovery,5.29,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+34,T1136,Create Account,4.85,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+36,T1566.002,Phishing: Spearphishing Link,4.41,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+38,T1574.002,Hijack Exectuion Flow: DLL Side-Loading,3.96,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+38,T1574.001,Hijack Execution Flow: DLL Search Order Hijacking,3.96,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+38,T1070.006,Indicator Removal on Host: Timestomp,3.96,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+38,T1012,Query Registry,3.96,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+42,T1087,Account Discovery,3.52,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+42,T1574.008,Hijack Exectuion Flow: Path Interception by Search Order Hijacking,3.52,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+42,T1069,Permission Groups Discovery,3.52,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+45,T1547.004,Boot or Logon Autostart Execution: Winlogon Helper DLL,3.08,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+45,T1546.008,Event Triggered Execution: Accesibility Features,3.08,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+45,T1083,File and Directory Discovery,3.08,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+45,T1562.006,Impair Defenses: Indicator Blocking,3.08,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+45,T1046,Network Service Scanning,3.08,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+45,T1057,Process Discovery,3.08,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+45,T1016,System Network Configuration Discovery,3.08,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+52,T1574.011,Hijack Exectuion Flow: Services Registry Permissions Weakness,2.20,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+52,T1055,Process Injection,2.20,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+52,T1090.003,Proxy: Multi-Hop Proxy,2.20,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+52,T1219,Remote Access Software,2.20,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+52,T1021,Remote Services,2.20,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+58,T1546.011,Event Triggered Execution: Accesibility Features Application Shimming,1.76,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+58,T1095,Non-Application Layer Protocol,1.76,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+58,T1014,Rootkit,1.76,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+58,T1047,Windows Management Instrumentation,1.76,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+62,T1565.001,Data Manipulation: Stored Data Manipulation,1.32,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+62,T1140,Deobfuscate/Decode Files or Information,1.32,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+62,T1482,Domain Trust Discovery,1.32,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+62,T1135,Network Share Discovery,1.32,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+62,T1053,Scheduled Task/Job,1.32,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+62,T1021.002,SMB/Windows Admin Shares,1.32,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+69,T1564.004,Hide Artifacts: NTFS File Attributes,0.88,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+69,T1036,Masquerading,0.88,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+69,T1218.010,System Binary Proxy Execution: Regsvr32,0.88,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+69,T1049,System Network Connections Discovery,0.88,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+69,T1497,Virtualization/Sandbox Evasion,0.88,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1547.009,Boot or Logon Autostart Execution: Shortcut Modification,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1480,Execution Guardrails,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T0871,Execution through API,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1564.001,Hide Artifacts: Hidden Files and Directories,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1056.004,Input Capture: Credential API Hooking,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1559.002,Inter-Process Communication: Dynamic Data Exchange,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1111,Multi-Factor Authentication Interception,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1040,Network Sniffing,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1201,Password Policy Discovery,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1055.12,Process Injection: Process Hollowing,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1218.005,System Binary Proxy Execution: Mshta,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1007,System Service Discovery,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1569.002,System Services: Service Execution,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1124,System Time Discovery,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1552.001,Unsecured Credentials: Credentials in Files,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+74,T1552.002,Unsecured Credentials: Credentials in Registry,0.44,M-Trends,2020,Private,https://www.mandiant.com/sites/default/files/2021-09/mtrends-2020.pdf
+1,T1027,Obfuscated Files or Information,52.60,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+2,T1059,Command and Scripting Interpreter,51.30,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+3,T1059.001,Command and Scripting Interpreter: PowerShell,40.80,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+4,T1569.002,System Services: Service Execution,30.60,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+5,T1569,System Services,30.60,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+6,T1070,Indicator Removal on Host,24.40,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+7,T1105,Ingress Tool Transfer,24.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+8,T1553,Subvert Trust Controls,21.30,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+10,T1190,Exploit Public-Facing Application,21.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+10,T1553.002,Subvert Trust Controls: Code Signing,21.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+13,T1070.004,Indicator Removal on Host: File Deletion,18.10,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+13,T1055,Process Injection,18.10,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+15,T1573,Encrypted Channel,15.90,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+15,T1573.002,Encrypted Channel: Asymmetric Cryptography,15.90,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+17,T1112,Modify Registry,15.60,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+18,T1059.003,Command and Scripting Interpreter: Windows Command Shell,15.40,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+19,T1560,Archive Collected Data,15.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+19,T1053,Scheduled Task/Job,15.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+21,T1566,Phishing,14.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+23,T1095,Non-Application Layer Protocol,13.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+24,T1497,Virtualization/Sandbox Evasion,12.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+25,T1505,Server Software Component,12.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+25,T1505.003,Server Software Component: Web Shell,12.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+27,T1133,External Remote Services,11.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+27,T1204,User Execution,11.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+29,T1562,Impair Defenses,9.80,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+30,T1071,Application Layer Protocol,9.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+31,T1098,Account Manipulation,9.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+31,T1543,Create or Modify System Process,9.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+31,T1543.003,Create or Modify System Process: Windows Service,9.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+34,T1003,OS Credential Dumping,8.80,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+35,T1027.002,Obfuscated Files or Information: Software Packing,8.10,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+38,T1071.001,Application Layer Protocol: Web Protocols,7.60,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+39,T1204.001,User Execution: Malicious Link,7.30,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+40,T1078,Valid Accounts,6.80,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+41,T1053.005,Scheduled Task/Job: Scheduled Task,6.60,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+42,T1110,Brute Force,6.10,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+42,T1136,Create Account,6.10,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+44,T1134,Access Token Manipulation,5.90,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+44,T1059.005,Command and Scripting Interpreter: Visual Basic,5.90,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+44,T1562.001,Impair Defenses: Disable or Modify Tools,5.90,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+44,T1070.006,Indicator Removal on Host: Timestomp,5.90,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+48,T1572,Protocol Tunneling,5.40,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+49,T1562.004,Impair Defenses: Disable or Modify System Firewall,5.10,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+51,T1203,Exploitation for Client Execution,4.90,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+51,T1056,Input Capture,4.90,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+51,T1056.001,Input Capture: Keylogging,4.90,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+51,T1090,Proxy,4.90,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+55,T1003.001,LSASS Memory,4.40,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+56,T1547,Boot or Logon Autostart Execution,4.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+56,T1547.001,Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder,4.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+56,T1213,Data from Information Repositories,4.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+56,T1070.001,Indicator Removal on Host: Clear Windows Event Logs,4.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+56,T1204.002,User Execution: Malicious File,4.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+61,T1202,Indirect Command Execution,3.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+62,T1003.003,NTDS,3.40,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+63,T1114,Email Collection,3.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+63,T1546,Event Triggered Execution,3.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+63,T1574,Hijack Execution Flow,3.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+63,T1090.003,Proxy: Multi-Hop Proxy,3.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+63,T1113,Screen Capture,3.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+63,T1529,System Shutdown/Reboot,3.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+63,T1199,Trusted Relationship,3.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+70,T1115,Clipboard Data,2.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+70,T1059.007,Command and Scripting Interpreter: JavaScript,2.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+70,T1140,Deobfuscate/Decode Files or Information,2.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+70,T1047,Windows Management Instrumentation,2.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+75,T1574.002,Hijack Exectuion Flow: DLL Side-Loading,2.40,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+75,T1574.001,Hijack Execution Flow: DLL Search Order Hijacking,2.40,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+75,T1218,System Binary Proxy Execution,2.40,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+78,T1564,Hide Artifacts,2.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+80,T1110.003,Brute Force: Password Spraying,2.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+80,T1564.003,Hide Artifacts: Hidden Window,2.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+83,T1071.004,Application Layer Protocol: DNS,1.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+83,T1555,Credentials from Password Stores,1.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+83,T1565,Data Manipulation,1.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+83,T1565.001,Data Manipulation: Stored Data Manipulation,1.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+87,T1189,Drive-by Compromise,1.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+87,T1480,Execution Guardrails,1.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+87,T1036,Masquerading,1.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+87,T1497.001,Virtualization/Sandbox Evasion: System Checks,1.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+91,T1110.001,Brute Force: Password Guessing,1.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+91,T1546.008,Event Triggered Execution: Accesibility Features,1.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+91,T1546.011,Event Triggered Execution: Accesibility Features Application Shimming,1.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+91,T1070.005,Indicator Removal on Host: Network Share Connection Removal,1.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+97,T1531,Account Access Removal,1.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+97,T1059.006,Command and Scripting Interpreter: Python,1.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+97,T1555.003,Credentials from Password Stores: Credentials from Web Browsers,1.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+97,T1027.005,Obfuscated Files or Information: Indicator Removal from Tools,1.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+97,T1055.003,Process Injection: Thread Execution Hijacking,1.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+97,T1218.010,System Binary Proxy Execution: Regsvr32,1.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+97,T1552,Unsecured Credentials,1.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+97,T1102,Web Service,1.00,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+105,T1548,Abuse Elevation Control Mechanism,0.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+105,T1197,BITS Jobs,0.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+105,T1546.003,Event Triggered Execution: Windows Managment Instrumentation Event Subscription,0.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+105,T1036.003,Masquerading: Rename System Utilities,0.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+105,T1111,Multi-Factor Authentication Interception,0.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+105,T1003.002,OS Credential Dumping: Security Account Manager,0.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+105,T1219,Remote Access Software,0.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+105,T1558,Steal or Forge Kerberos Tickets,0.70,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1548.002,Abuse Elevation Control Mechanism: Bypass User Account Control,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1071.003,Application Layer Protocol: Mail Protocols,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1530,Data from Cloud Storage Object,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1200,Hardware Additions,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1036.001,Masquerading: Invalid Code Signature,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1578,Modify Cloud Compute Infrastructure,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1578.002,Modify Cloud Compute Infrastructure: Create Cloud Instance,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1027.003,Obfuscated Files or Information: Steganography,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1055.12,Process Injection: Process Hollowing,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1091,Replication through Removable Media,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1195,Supply Chain Compromise,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1218.002,System Binary Proxy Execution: Control Panel,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1218.005,System Binary Proxy Execution: Mshta,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1552.004,Unsecured Credentials: Private Keys,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+115,T1550,Use Alternate Authentication Material,0.50,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1003.008,/etc/passwd and /etc/shadow,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1548.001,Abuse Elevation Control Mechanism: Setuid and Setgid,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1134.001,Access Token Manipulation: Token Impersonation/Theft,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1071.002,Application Layer Protocol: File Transfer Protocols,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1123,Audio Capture,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1547.009,Boot or Logon Autostart Execution: Shortcut Modification,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1136.002,Create Account: Domain Account,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1136.001,Create Account: Local Account,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1001,Data Obfuscation,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1074,Data Staged,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1003.006,DCSync,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1484,Domain Policy Modification,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1484.001,Domain Policy Modification: Group Policy Modification,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1568,Dynamic Resolution,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1568.002,Dynamic Resolution: Domain Generation Algorithms,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1567,Exfiltration Over Web Service,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1211,Exploitation for Defense Evasion,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1068,Exploitation for Privilege Escalation,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1187,Forced Authentication,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1564.004,Hide Artifacts: NTFS File Attributes,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1574.008,Hijack Exectuion Flow: Path Interception by Search Order Hijacking,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1562.007,Impari Defenses: Disable or Modify Cloud Firewall,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1036.005,Masquerading: Match Legitimate Name or Location,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1578.003,Modify Cloud Compute Infrastructure: Delete Cloud Instance,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1106,Native API,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1571,Non-Standard Port,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1027.001,Obfuscated Files or Information: Binary Padding,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1027.004,Ofbuscated Files or Information: Compile After Delivery,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1542,Pre-OS Boot,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1542,Pre-OS Boot,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1542.003,Pre-OS Boot: Bootkit,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1090.004,Proxy: Domain Fronting,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1558.003,Steal or Forge Kerberos Tickets: Kerberoasting,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1539,Steal Web Session Cookie,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1218.003,System Binary Proxy Execution: CMSTP,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1218.011,System Binary Proxy Execution: Rundll32,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1127,Trusted Developer Utilities Proxy Execution,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1127.001,Trusted Developer Utilities Proxy Execution: MSBuild,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1552.001,Unsecured Credentials: Credentials in Files,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1550.002,Use Alternate Authentication Material: Pass the Hash,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1550.003,Use Alternate Authentication Material: Pass the Ticket,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+130,T1125,Video Capture,0.20,M-Trends,2021,Private,https://www.mandiant.com/sites/default/files/2021-09/rpt-mtrends-2021-3.pdf
+1,T1027,Obfuscated Files or Information,51.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+2,T1059,Command and Scripting Interpreter,44.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+3,T1071,Application Layer Protocol,36.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+4,T1071.001,Application Layer Protocol: Web Protocols,32.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+5,T1082,System Information Discovery,31.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+6,T1083,File and Directory Discovery,31.70,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+6,T1070,Indicator Removal on Host,31.70,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+8,T1059.001,Command and Scripting Interpreter: PowerShell,29.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+9,T1055,Process Injection,28.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+11,T1021,Remote Services,27.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+12,T1070.004,Indicator Removal on Host: File Deletion,27.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+13,T1497,Virtualization/Sandbox Evasion,26.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+15,T1105,Ingress Tool Transfer,26.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+15,T1569,System Services,26.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+15,T1569.002,System Services: Service Execution,26.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+18,T1190,Exploit Public-Facing Application,25.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+19,T1140,Deobfuscate/Decode Files or Information,23.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+20,T1021.001,Remote Services: Remote Desktop Protocol,23.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+22,T1112,Modify Registry,22.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+23,T1564,Hide Artifacts,20.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+24,T1012,Query Registry,19.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+25,T1564.003,Hide Artifacts: Hidden Window,18.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+25,T1057,Process Discovery,18.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+25,T1033,System Owner/User Discovery,18.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+28,T1497.001,Virtualization/Sandbox Evasion: System Checks,17.70,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+30,T1016,System Network Configuration Discovery,16.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+31,T1518,Software Discovery,16.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+33,T1053,Scheduled Task/Job,15.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+36,T1553,Subvert Trust Controls,15.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+36,T1553.002,Subvert Trust Controls: Code Signing,15.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+39,T1573,Encrypted Channel,14.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+40,T1505,Server Software Component,14.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+40,T1505.003,Server Software Component: Web Shell,14.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+44,T1560,Archive Collected Data,13.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+45,T1087,Account Discovery,13.70,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+45,T1573.002,Encrypted Channel: Asymmetric Cryptography,13.70,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+47,T1620,Reflective Code Loading,13.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+47,T1053.005,Scheduled Task/Job: Scheduled Task,13.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+51,T1562,Impair Defenses,13.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+52,T1543,Create or Modify System Process,13.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+56,T1543.003,Create or Modify System Process: Windows Service,12.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+56,T1095,Non-Application Layer Protocol,12.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+60,T1134,Access Token Manipulation,12.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+63,T1059.003,Command and Scripting Interpreter: Windows Command Shell,11.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+64,T1195,Supply Chain Compromise,11.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+64,T1195.002,Supply Chain Compromise: Software Supply Chain,11.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+66,T1003,OS Credential Dumping,9.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+70,T1562.001,Impair Defenses: Disable or Modify Tools,9.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+71,T1027.005,Obfuscated Files or Information: Indicator Removal from Tools,8.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+72,T1133,External Remote Services,8.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+75,T1566,Phishing,8.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+76,T1098,Account Manipulation,8.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+77,T1071.004,Application Layer Protocol: DNS,8.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+77,T1482,Domain Trust Discovery,8.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+77,T1202,Indirect Command Execution,8.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+77,T1069,Permission Groups Discovery,8.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+81,T1007,System Service Discovery,8.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+82,T1056,Input Capture,7.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+82,T1056.001,Input Capture: Keylogging,7.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+82,T1056.001,Input Capture: Keylogging,7.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+86,T1547,Boot or Logon Autostart Execution,6.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+86,T1213,Data from Information Repositories,6.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+89,T1010,Application Window Discovery,6.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+89,T1070.006,Indicator Removal on Host: Timestomp,6.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+91,T1134.001,Access Token Manipulation: Token Impersonation/Theft,6.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+91,T1136,Create Account,6.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+91,T1078,Valid Accounts,6.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+97,T1135,Network Share Discovery,6.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+97,T1090,Proxy,6.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+97,T1049,System Network Connections Discovery,6.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+101,T1204,User Execution,5.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+102,T1562.004,Impair Defenses: Disable or Modify System Firewall,5.70,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+103,T1547.001,Boot or Logon Autostart Execution: Registry Run Keys / Startup Folder,5.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+105,T1027.002,Obfuscated Files or Information: Software Packing,5.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+105,T1218,System Binary Proxy Execution,5.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+107,T1529,System Shutdown/Reboot,4.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+108,T1021.004,Remote Services: SSH,4.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+109,T1074,Data Staged,4.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+110,T1572,Protocol Tunneling,4.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+111,T1115,Clipboard Data,4.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+111,T1189,Drive-by Compromise,4.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+111,T1003.001,LSASS Memory,4.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+111,T1566.001,Phishing: Spearphishing Attachment,4.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+115,T1574,Hijack Execution Flow,4.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+116,T1560.001,Archive Collected Data: Archive via Utility,4.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+116,T1059.005,Command and Scripting Interpreter: Visual Basic,4.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+116,T1021.002,SMB/Windows Admin Shares,4.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+116,T1552,Unsecured Credentials,4.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+116,T1047,Windows Management Instrumentation,4.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+121,T1074.001,Data Staged: Local Data Staging,3.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+121,T1113,Screen Capture,3.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+121,T1614,System Location Discovery,3.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+121,T1614.001,System Location Discovery: System Language Discovery,3.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+121,T1614.001,System Location Discovery: System Language Discovery,3.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+127,T1110,Brute Force,3.70,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+127,T1480,Execution Guardrails,3.70,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+127,T1070.001,Indicator Removal on Host: Clear Windows Event Logs,3.70,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+127,T1003.003,NTDS,3.70,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+131,T1566.002,Phishing: Spearphishing Link,3.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+131,T1090.003,Proxy: Multi-Hop Proxy,3.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+134,T1059.006,Command and Scripting Interpreter: Python,3.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+134,T1568,Dynamic Resolution,3.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+134,T1568.002,Dynamic Resolution: Domain Generation Algorithms,3.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+134,T1574.011,Hijack Exectuion Flow: Services Registry Permissions Weakness,3.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+134,T1574.011,Hijack Exectuion Flow: Services Registry Permissions Weakness,3.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+134,T1027.003,Obfuscated Files or Information: Steganography,3.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+134,T1218.011,System Binary Proxy Execution: Rundll32,3.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+134,T1497.003,Time-Based Evasion,3.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+134,T1204.001,User Execution: Malicious Link,3.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+145,T1036,Masquerading,3.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+148,T1567,Exfiltration Over Web Service,3.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+149,T1546,Event Triggered Execution,2.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+149,T1055.003,Process Injection: Thread Execution Hijacking,2.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+154,T1018,Remote System Discovery,2.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+156,T1558,Steal or Forge Kerberos Tickets,2.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+156,T1204.002,User Execution: Malicious File,2.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+158,T1087.002,Account Discovery: Domain Account,2.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+159,T1548,Abuse Elevation Control Mechanism,2.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+161,T1548.002,Abuse Elevation Control Mechanism: Bypass User Account Control,2.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+161,T1555,Credentials from Password Stores,2.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+161,T1114,Email Collection,2.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+161,T1203,Exploitation for Client Execution,2.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+161,T1046,Network Service Scanning,2.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+161,T1069.002,Permission Groups Discovery: Domain Groups,2.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+161,T1558.003,Steal or Forge Kerberos Tickets: Kerberoasting,2.00,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+169,T1059.007,Command and Scripting Interpreter: JavaScript,1.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+170,T1222,File and Directory Permissions Modification,1.70,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+170,T1070.005,Indicator Removal on Host: Network Share Connection Removal,1.70,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+173,T1059.004,Command and Scripting Interpreter: Unix Shell,1.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+173,T1136.001,Create Account: Local Account,1.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+173,T1074.002,Data Staged: Remote Data Staging,1.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+176,T1547.009,Boot or Logon Autostart Execution: Shortcut Modification,1.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+176,T1555.003,Credentials from Password Stores: Credentials from Web Browsers,1.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+176,T1546.003,Event Triggered Execution: Windows Managment Instrumentation Event Subscription,1.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+176,T1003.002,OS Credential Dumping: Security Account Manager,1.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+176,T1219,Remote Access Software,1.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+176,T1552.004,Unsecured Credentials: Private Keys,1.40,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+185,T1003.008,/etc/passwd and /etc/shadow,1.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+185,T1110.001,Brute Force: Password Guessing,1.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+187,T1560.002,Archive Collected Data: Archive via Library,1.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+187,T1020,Automated Exfiltration,1.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+187,T1213.003,Data from Information Repositories: Code Repositories,1.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+187,T1213.002,Data from Information Repositories: SharePoint,1.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+187,T1039,Data from Network Shared Drive,1.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+187,T1114.002,Email Collection: Remote Email Collection,1.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+187,T1111,Multi-Factor Authentication Interception,1.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+187,T1069.001,Permission Groups Discovery: Local Groups,1.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+187,T1055.001,Process Injection: Dynamic-link Library Injection,1.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+187,T1552.002,Unsecured Credentials: Credentials in Registry,1.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+187,T1102,Web Service,1.10,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+199,T1110.003,Brute Force: Password Spraying,0.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+199,T1530,Data from Cloud Storage Object,0.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+199,T1546.008,Event Triggered Execution: Accesibility Features,0.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+199,T1567.002,Exfiltration Over Web Service: Exfiltration to Cloud Storage,0.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+199,T1564.008,Hide Artifacts: Email Hiding Rules,0.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+199,T1574.002,Hijack Exectuion Flow: DLL Side-Loading,0.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+199,T1055.004,Process Injection: Aynchronous Procedure Call,0.90,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+210,T1197,BITS Jobs,0.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+210,T1580,Cloud Infrastructure Discovery,0.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+210,T1132,Data Encoding,0.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+210,T1132.001,Data Encoding: Standard Encoding,0.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+210,T1003.006,DCSync,0.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+210,T1484,Domain Policy Modification,0.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+210,T1484.001,Domain Policy Modification: Group Policy Modification,0.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+210,T1484.001,Domain Policy Modification: Group Policy Modification,0.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+210,T1559,Inter-Process Communication,0.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+210,T1055.012,Process Injection: Process Hollowing,0.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+210,T1090.004,Proxy: Domain Fronting,0.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+210,T1539,Steal Web Session Cookie,0.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+210,T1550,Use Alternate Authentication Material,0.80,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1098.001,Account Manipulation: Additional Cloud Credentials,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1098.002,Account Manipulation: Additional Email Delegate Permissions,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1098.004,Account Manipulation: SSH Authorized Keys,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1547.004,Boot or Logon Autostart Execution: Winlogon Helper DLL,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1573.001,Encrypted Channel: Symmetric Cryptography,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1041,Exfiltration Over C2 Channel,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1222.001,File and Directory Permissions Modification: Windows File and Directory Permission Modification,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1016.001,Internet Connection Discovery,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1570,Lateral Tool Transfer,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1036.005,Masquerading: Match Legitimate Name or Location,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1129,Shared Modules,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1218.005,System Binary Proxy Execution: Mshta,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1218.010,System Binary Proxy Execution: Regsvr32,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1124,System Time Discovery,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1199,Trusted Relationship,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1552.001,Unsecured Credentials: Credentials in Files,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+230,T1552.006,Unsecured Credentials: Group Policy Preferences,0.60,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+248,T1552.003,Unsecured Credentials: Bash History,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1037,Boot or Logon Initialization Scripts,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1110.004,Brute Force: Credential Stuffing,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1136.003,Create Account: Cloud Account,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1543.002,Create or Modify System Process: Systemd Service,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1555.005,Credentials from Password Stores: Password Managers,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1005,Data from Local System,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1565,Data Manipulation,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1565.001,Data Manipulation: Stored Data Manipulation,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1001,Data Obfuscation,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1222.002,File and Directory Permissions Modification: Linux and Mac File and Directory Permissions Modification,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1187,Forced Authentication,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1562.003,Impair Defenses: Impair Command History Logging,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1070.002,Indicator Removal on Host: Clear Linux or Mac System Logs,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1559.001,Inter-Process Communication: Component Object Model,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1534,Internal Spearphishing,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1027.004,Ofbuscated Files or Information: Compile After Delivery,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1021.005,Remote Services: VNC,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1053.003,Scheduled Task/Job: Cron,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1505.004,Server Software Component: IIS Components,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1218.007,System Binary Proxy Execution: Msiexec,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1127,Trusted Developer Utilities Proxy Execution,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1127.001,Trusted Developer Utilities Proxy Execution: MSBuild,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+249,T1550.002,Use Alternate Authentication Material: Pass the Hash,0.50,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1531,Account Access Removal,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1071.002,Application Layer Protocol: File Transfer Protocols,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1213.001,Data from Information Repositories: Confluence,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1114.001,Email Collection: Local Email Collection,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1546.007,Event Triggered Execution: Netsh Helper DLL,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1068,Exploitation for Privilege Escalation,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1564.004,Hide Artifacts: NTFS File Attributes,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1574.001,Hijack Execution Flow: DLL Search Order Hijacking,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1562.008,Impair Defenses: Disable Cloud Logs,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1070.003,Indicator Removal on Host: Clear Command History,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1036.007,Masquerading: Double File Extension,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1036.003,Masquerading: Rename System Utilities,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1556,Modify Authentication Process,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1556.003,Modify Authentication Process: Pluggable Authentication Modules,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1578,Modify Cloud Compute Infrastructure,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1578.002,Modify Cloud Compute Infrastructure: Create Cloud Instance,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1040,Network Sniffing,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1201,Password Policy Discovery,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1014,Rootkit,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1518.001,Software Discovery: Security Software Discovery,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1558.004,Steal or Forge Kerberos Tickets: AS-REP Roasting,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1218.002,System Binary Proxy Execution: Control Panel,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+280,T1552.005,Unsecured Credentials: Cloud Instance Metadata API,0.30,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1548.001,Abuse Elevation Control Mechanism: Setuid and Setgid,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1134.002,Access Token Manipulation: Create Process with Token,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1087.004,Account Discovery: Cloud Account,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1087.003,Account Discovery: Email Account,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1119,Automated Collection,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1547.006,Boot or Logon Autostart Execution: Kernel Modules and Extensions,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1037.001,Boot or Logon Initialization Scripts: Logon Script,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1037.003,Boot or Logon Initialization Scripts: Network Logon Script,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1037.004,Boot or Logon Initialization Scripts: RC Scripts,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1538,Cloud Service Dashboard,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1526,Cloud Service Discovery,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1619,Cloud Storage Object Discovery,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1554,Compromise Client Software Binary,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1555.004,Credentials from Password Stores: Windows Credential Manager,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1602,Data from Configuration Repository,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1030,Data Transfer Size Limits,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1561,Disk Wipe,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1561.002,Disk Wipe: Disk Structure Wipe,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1114.003,Email Collection: Email Forwarding Rule,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1546.010,Event Triggered Execution: Accesibility Features Appinit DLLs,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1546.015,Event Triggered Execution: Accesibility Features Component Object Model Hijacking,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1546.012,Event Triggered Execution: Accesibility Features Image File Execution Options Injection,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1546.001,Event Triggered Execution: Change Default File Association,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1546.002,Event Triggered Execution: Screensaver,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1480.001,Execution Guardrails: Environmental Keying,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1048,Exfiltration Over Alternative Protocol,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1567.001,Exfiltration Over Web Service: Exfiltration to Code Repository,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1008,Fallback Channels,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1606,Forge Web Credentials,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1606.001,Forge Web Credentials: Web Cookies,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1574.008,Hijack Exectuion Flow: Path Interception by Search Order Hijacking,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1562.007,Impari Defenses: Disable or Modify Cloud Firewall,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1003.004,LSA Secrets,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1578.003,Modify Cloud Compute Infrastructure: Delete Cloud Instance,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1602.002,Network Device Configuration Dump,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1120,Peripheral Device Discovery,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1069.003,Permission Groups Discovery: Cloud Groups,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1055.002,Process Injection: Portable Executable Injection,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1021.006,Remote Services: Windows Remote Management,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1053.001,Scheduled Task/Job: At,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1558.001,Steal or Forge Kerberos Tickets: Golden Ticket,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1218.003,System Binary Proxy Execution: CMSTP,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1550.001,Use Alternate Authentication Material: Application Access Token,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1550.003,Use Alternate Authentication Material: Pass the Ticket,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+311,T1102.001,Web Service: Dead Drop Resolver,0.20,M-Trends,2022,Private,https://www.mandiant.com/media/15671
+1,T1055,Process Injection,17.00,Red Canary,2020,Private,https://issa-centralmd.org/wp-content/uploads/2021-01-27-Red-Canary-Threat-Detection-Report.pdf
+2,T1053,Scheduled Task/Job,13.00,Red Canary,2020,Private,https://issa-centralmd.org/wp-content/uploads/2021-01-27-Red-Canary-Threat-Detection-Report.pdf
+3,T1021.002,SMB/Windows Admin Shares,13.00,Red Canary,2020,Private,https://issa-centralmd.org/wp-content/uploads/2021-01-27-Red-Canary-Threat-Detection-Report.pdf
+4,T1059.001,Command and Scripting Interpreter: PowerShell,12.00,Red Canary,2020,Private,https://issa-centralmd.org/wp-content/uploads/2021-01-27-Red-Canary-Threat-Detection-Report.pdf
+5,T1105,Ingress Tool Transfer,9.00,Red Canary,2020,Private,https://issa-centralmd.org/wp-content/uploads/2021-01-27-Red-Canary-Threat-Detection-Report.pdf
+6,T1036,Masquerading,7.00,Red Canary,2020,Private,https://issa-centralmd.org/wp-content/uploads/2021-01-27-Red-Canary-Threat-Detection-Report.pdf
+7,T1059,Command and Scripting Interpreter,5.00,Red Canary,2020,Private,https://issa-centralmd.org/wp-content/uploads/2021-01-27-Red-Canary-Threat-Detection-Report.pdf
+8,T1574.001,Hijack Execution Flow: DLL Search Order Hijacking,5.00,Red Canary,2020,Private,https://issa-centralmd.org/wp-content/uploads/2021-01-27-Red-Canary-Threat-Detection-Report.pdf
+9,T1482,Domain Trust Discovery,5.00,Red Canary,2020,Private,https://issa-centralmd.org/wp-content/uploads/2021-01-27-Red-Canary-Threat-Detection-Report.pdf
+10,T1562.001,Impair Defenses: Disable or Modify Tools,5.00,Red Canary,2020,Private,https://issa-centralmd.org/wp-content/uploads/2021-01-27-Red-Canary-Threat-Detection-Report.pdf
+1,T1059,Command and Scripting Interpreter,24.00,Red Canary,2021,Private,https://falksangdata.no/wp-content/uploads/2021/06/RedCanary-2021-Threat-Detection-Report.pdf
+2,T1218,System Binary Proxy Execution,19.00,Red Canary,2021,Private,https://falksangdata.no/wp-content/uploads/2021/06/RedCanary-2021-Threat-Detection-Report.pdf
+3,T1543,Create or Modify System Process,16.00,Red Canary,2021,Private,https://falksangdata.no/wp-content/uploads/2021/06/RedCanary-2021-Threat-Detection-Report.pdf
+4,T1053,Scheduled Task/Job,16.00,Red Canary,2021,Private,https://falksangdata.no/wp-content/uploads/2021/06/RedCanary-2021-Threat-Detection-Report.pdf
+5,T1003,OS Credential Dumping,7.00,Red Canary,2021,Private,https://falksangdata.no/wp-content/uploads/2021/06/RedCanary-2021-Threat-Detection-Report.pdf
+6,T1055,Process Injection,7.00,Red Canary,2021,Private,https://falksangdata.no/wp-content/uploads/2021/06/RedCanary-2021-Threat-Detection-Report.pdf
+7,T1027,Obfuscated Files or Information,6.00,Red Canary,2021,Private,https://falksangdata.no/wp-content/uploads/2021/06/RedCanary-2021-Threat-Detection-Report.pdf
+8,T1105,Ingress Tool Transfer,5.00,Red Canary,2021,Private,https://falksangdata.no/wp-content/uploads/2021/06/RedCanary-2021-Threat-Detection-Report.pdf
+9,T1569,System Services,4.00,Red Canary,2021,Private,https://falksangdata.no/wp-content/uploads/2021/06/RedCanary-2021-Threat-Detection-Report.pdf
+10,T1036,Masquerading,4.00,Red Canary,2021,Private,https://falksangdata.no/wp-content/uploads/2021/06/RedCanary-2021-Threat-Detection-Report.pdf
+1,T1059,Command and Scripting Interpreter,53.40,Red Canary,2022,Private,https://resource.redcanary.com/rs/003-YRU-314/images/2022_ThreatDetectionReport_RedCanary.pdf
+2,T1218,System Binary Proxy Execution,34.80,Red Canary,2022,Private,https://resource.redcanary.com/rs/003-YRU-314/images/2022_ThreatDetectionReport_RedCanary.pdf
+3,T1047,Windows Management Instrumentation,15.40,Red Canary,2022,Private,https://resource.redcanary.com/rs/003-YRU-314/images/2022_ThreatDetectionReport_RedCanary.pdf
+4,T1003,OS Credential Dumping,18.30,Red Canary,2022,Private,https://resource.redcanary.com/rs/003-YRU-314/images/2022_ThreatDetectionReport_RedCanary.pdf
+5,T1105,Ingress Tool Transfer,20.40,Red Canary,2022,Private,https://resource.redcanary.com/rs/003-YRU-314/images/2022_ThreatDetectionReport_RedCanary.pdf
+6,T1055,Process Injection,21.70,Red Canary,2022,Private,https://resource.redcanary.com/rs/003-YRU-314/images/2022_ThreatDetectionReport_RedCanary.pdf
+7,T1053,Scheduled Task/Job,14.70,Red Canary,2022,Private,https://resource.redcanary.com/rs/003-YRU-314/images/2022_ThreatDetectionReport_RedCanary.pdf
+8,T1027,Obfuscated Files or Information,19.40,Red Canary,2022,Private,https://resource.redcanary.com/rs/003-YRU-314/images/2022_ThreatDetectionReport_RedCanary.pdf
+9,T1036,Masquerading,22.10,Red Canary,2022,Private,https://resource.redcanary.com/rs/003-YRU-314/images/2022_ThreatDetectionReport_RedCanary.pdf
+10,T1574,Hijack Execution Flow,8.40,Red Canary,2022,Private,https://resource.redcanary.com/rs/003-YRU-314/images/2022_ThreatDetectionReport_RedCanary.pdf
