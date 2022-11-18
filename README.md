@@ -1,6 +1,9 @@
 # macro-level-attack-trending
 This repo contains Aggregated ATT&amp;CK technique reporting data. This data supports the presentation from Splunk GovSummit December 14 2022.
 
+Link to presentation: <TBD>
+Link to slides: <TBD>
+
 Private Sector Yearly Threat Intelligence Reporting:
 - Mandiant M-Trends (2020-2022), 
 - Red Canary Threat Reports (2020-2022), 
