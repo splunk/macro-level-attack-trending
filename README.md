@@ -14,3 +14,14 @@ Public Sector Threat Intelligence:
 
 ![image](3d-scatter.gif)
 
+### Report References
+
+- Red Canary Annual Threat Report: https://redcanary.com/resources/guides/threat-detection-report/
+- Mandiant M-Trends: https://www.mandiant.com/m-trends
+- CTID ATT&CK Sightings: https://web.mitre-engenuity.org/hubfs/Center%20for%20Threat%20Informed%20Defense/CTID-Sightings-Ecosystem-Report.pdf
+- CISA Alerts: https://www.cisa.gov/uscert/ncas/alerts
+- RAWgraphs: https://www.rawgraphs.io/
+- Parallel Coordinates Viz: https://splunkbase.splunk.com/app/3137
+- Treemap: https://splunkbase.splunk.com/app/3118
+- 3D Scatterplot: https://splunkbase.splunk.com/app/3138
+- Data Science & Deep Learning Toolkit: https://splunkbase.splunk.com/app/4607
