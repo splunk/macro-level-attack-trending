@@ -13,7 +13,7 @@ Public Sector Threat Intelligence:
 
 ![image](3d-scatter.gif)
 
-### Report References
+### Analysis References
 
 - Red Canary Annual Threat Report: https://redcanary.com/resources/guides/threat-detection-report/
 - Mandiant M-Trends: https://www.mandiant.com/m-trends
