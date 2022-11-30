@@ -1,7 +1,7 @@
 # macro-level-attack-trending
 This repo contains Aggregated ATT&amp;CK technique reporting data. This data supports the presentation from Splunk GovSummit December 14 2022.
 
-<h3>Link to Blog:</h3> https://www.splunk.com/en_us/blog/security/zoom-enhance-finding-value-in-macro-level-att-ck-reporting.html </br>
+<h3>Link to Blog:</h3> https://www.splunk.com/en_us/blog/security/zoom-enhance-finding-value-in-macro-level-att-ck-reporting.html</br></br>
 
 Private Sector Yearly Threat Intelligence Reporting:
 - Mandiant M-Trends (2020-2022), 
