@@ -27,7 +27,7 @@ Public Sector Threat Intelligence:
 - Data Science & Deep Learning Toolkit: https://splunkbase.splunk.com/app/4607
 
 
-#### License
+### License
 
 Copyright 2022 Splunk Inc.
 
