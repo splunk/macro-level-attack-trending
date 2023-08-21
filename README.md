@@ -7,12 +7,12 @@ UPDATE: On Aug 21 2023 -- added new data for the past year of M-Trends, Red Cana
 <h3>Link to Blog:</h3> https://www.splunk.com/en_us/blog/security/zoom-enhance-finding-value-in-macro-level-att-ck-reporting.html</br></br>
 
 Private Sector Yearly Threat Intelligence Reporting Sources:
-- Mandiant M-Trends (2020-2022), 
-- Red Canary Threat Reports (2020-2022), 
+- Mandiant M-Trends (2020-2023), 
+- Red Canary Threat Reports (2020-2023), 
 - Center for Threat Informed Defense (CTID) – ATT&CK Sightings Project (2022)
 
 Public Sector Threat Intelligence Reporting Sources:
-- CISA National Cyber Awareness System – Alerts (2020-2022)
+- CISA National Cyber Awareness System – Alerts (2020-2023)
 
 ![image](3d-scatter.gif)
 
