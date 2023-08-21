@@ -2,6 +2,8 @@
 POC: rfetterman@splunk.com </br></br>
 This repo contains Aggregated ATT&amp;CK technique reporting data. This data supports the presentation from Splunk GovSummit December 14 2022. Impact and former Pre-ATT&CK techniques are not represented in the data.
 
+UPDATE: On Aug 21 2023 -- added new data for the past year of M-Trends, Red Canary Threat Detection Report, and CISA Alerts ‼️
+
 <h3>Link to Blog:</h3> https://www.splunk.com/en_us/blog/security/zoom-enhance-finding-value-in-macro-level-att-ck-reporting.html</br></br>
 
 Private Sector Yearly Threat Intelligence Reporting Sources:
