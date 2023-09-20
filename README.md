@@ -4,7 +4,9 @@ This repo contains Aggregated ATT&amp;CK technique reporting data. This data sup
 
 UPDATE: On Aug 21 2023 -- added new data for the past year of M-Trends, Red Canary Threat Detection Report, and CISA Alerts ‼️
 
-<h3>Link to Blog:</h3> https://www.splunk.com/en_us/blog/security/zoom-enhance-finding-value-in-macro-level-att-ck-reporting.html</br></br>
+<h3>Link to Blogs:</h3> 
+- 2022: https://www.splunk.com/en_us/blog/security/zoom-enhance-finding-value-in-macro-level-att-ck-reporting.html</br>
+- 2023: https://www.splunk.com/en_us/blog/security/revisiting-the-big-picture-macro-level-att-ck-updates-for-2023.html</br></br>
 
 Private Sector Yearly Threat Intelligence Reporting Sources:
 - Mandiant M-Trends (2020-2023), 
