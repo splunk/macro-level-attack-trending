@@ -2,12 +2,12 @@
 POC: rfetterman@splunk.com </br></br>
 This repo contains Aggregated ATT&amp;CK technique reporting data. This work was presented at Splunk GovSummit 2022, and RSA 2023 (<a href="https://www.rsaconference.com/Library/presentation/USA/2023/Threat%20Informed%20Planning%20with%20Macrolevel%20ATTCK%20Trending">"Threat-Informed Planning"</a>). 
 
-Last Updated: Sept 9, 2024
+<b>Last Updated:</b> Sept 9, 2024
 
 <h3>Link to Blogs:</h3> 
 - 2022: https://www.splunk.com/en_us/blog/security/zoom-enhance-finding-value-in-macro-level-att-ck-reporting.html</br>
-- 2023: https://www.splunk.com/en_us/blog/security/revisiting-the-big-picture-macro-level-att-ck-updates-for-2023.html</br></br>
-- 2024: TBD
+- 2023: https://www.splunk.com/en_us/blog/security/revisiting-the-big-picture-macro-level-att-ck-updates-for-2023.html</br>
+- 2024: TBD </br></br>
 
 Private Sector Yearly Threat Intelligence Reporting Sources:
 - Mandiant M-Trends (2020-2024), 
